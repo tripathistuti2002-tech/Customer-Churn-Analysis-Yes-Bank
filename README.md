@@ -97,6 +97,9 @@ Implemented a Star Schema approach to organize customer information and simplify
 - `Credit Card`
 - `Category`
 - `ActiveCustomer`
+- <p align="center">
+  <img src="Screenshot%202026-11-22%20142643.png" alt="Data Model Schema" width="750" />
+</p>
 
 The model supports customer segmentation, geographical comparisons, and churn analysis.
 
